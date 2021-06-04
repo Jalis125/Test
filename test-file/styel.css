@@ -1,0 +1,145 @@
+*{
+  padding: 0;
+  margin: 0;
+  }
+  body {
+    background: #bfb9b94d;
+  }
+  #manever {
+    width: 900px;
+    margin: auto;
+    padding: 100px 0;
+  }
+  
+  .contrner {
+    border: 1px solid #555;
+    height: auto;
+    overflow: hidden;
+    text-align: center;
+    border-radius: 20px;
+  }
+  .fast-ver {
+    width: 60%;
+    float: left;
+    color: #fff;
+    background: #169BF9;
+    padding: 35px 0px;
+    height: 390px;
+  }
+  .pad {
+    padding: 25px 68px;
+    margin: auto;
+  }
+  .pad>h1 {
+    padding: 17px;
+    text-transform: uppercase;
+    font-weight: 900;
+    font-size: 36px;
+    color: #f5fbf9;
+  }
+  .pad>p {
+    padding: 11px 0;
+    margin: 10px;
+    color: #eee9e9c2;
+    font-size: 20px;
+    text-align: justify;
+  }
+  
+  .pad>button {
+    padding: 12px 29px;
+    border: 2px solid #fff;
+    border-radius: 7px;
+    background: no-repeat;
+    color: #000;
+    font-size: 20px;
+    font-weight: 900;
+    text-transform: capitalize;
+    margin: 11px 150px 15px 0px;
+    transition: 0.6s;
+  }
+
+  .pad>button:hover {
+    background: rgba(81, 255, 0, 0.596);
+    color: #fff;
+  }
+  
+.seakin-ver {
+  float: left;
+  width: 40%;
+  background: #fff;
+  height: 460px;
+}
+.manea {
+  width: 100%;
+  padding: 10px;
+  margin: 60px 0px;
+}
+.manea>h2 {
+  padding: 10px;
+  font-size: 33px;
+  font-weight: 900;
+  text-transform: uppercase;
+  color: #064a31;
+}
+
+.manea>input {
+  padding: 9px 40px;
+  margin: 11px;
+  border: none;
+  outline: none;
+  border-bottom: 2px solid #aea9a9;
+  font-size: 14px;
+  font-weight: 900;
+}
+
+
+.manea>button {
+  padding: 9px 29px;
+  margin: 51px;
+  background: none;
+  background: #169BF9;
+  border: 1px solid black;
+  border-radius: 7px;
+  font-size: 14px;
+  font-weight: 900;
+  color: #fff;
+transition: 0.6s;
+}
+
+.manea>button:hover{
+  color: #1a1124;
+  background: #66339942;
+}
+
+.clear {
+  color: black;
+  padding: 9px;
+  width: 60px;
+  height: 60px;
+  border: 20px solid #fff;
+  border-radius: 100%;
+  margin: -113px 409px;
+}
+.pad>hr {
+  width: 65px;
+  color: #fff;
+  margin: 0px 63px;
+  height: 2px;
+  background: #FFF;
+  border: none;
+}
+.manea>hr {
+  width: 50px;
+  height: 3px;
+  background: #555353;
+  margin: auto;
+  border: none;
+}
+.mine {
+  border: 11px solid #ddd;
+  padding: 10px;
+  width: 20px;
+  height: 20px;
+  margin: -296px 0px 0px 317px;
+  border-radius: 6px;
+}
